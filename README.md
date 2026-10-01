@@ -23,7 +23,7 @@ import:   https://raw.githubusercontent.com/LiaTemplates/JSXGraph/0.0.3/README.m
 import:   https://raw.githubusercontent.com/LiaTemplates/Pyodide/master/README.md
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/LiaPlayground/JSXGraph-Algebrite-Extremwertaufgaben/blob/main/README.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/LiaPlayground/LiaScript-Mathe-Schule/blob/main/README.md)
 
 # LiaScript im Mathematikunterricht
 
